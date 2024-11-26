@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="http://localhost:49959/U3P6/MasterPage.master" title="Home"  description="">
+        <siteMapNode url="http://localhost:49959/U3P6/Category.aspx" title="Category"  description="" />
+        <siteMapNode url="http://localhost:49959/U3P6/Contact-Us.aspx" title="Contact Us"  description="" />
+        <siteMapNode url="http://localhost:49959/U3P6/About-Us.aspx" title="About Us"  description="" />
+    </siteMapNode>
+</siteMap>
