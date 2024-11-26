@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/AdImages/bannerAd1.gif</ImageUrl>
+    <NavigateUrl>http://localhost:50768/Default.aspx</NavigateUrl>
+    <AlternateText>Google website</AlternateText>
+    <Keyword>Google</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/AdImages/bannerAd2.gif</ImageUrl>
+    <NavigateUrl>http://localhost:50768/Default.aspx</NavigateUrl>
+    <AlternateText>Google website</AlternateText>
+    <Keyword>Google</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/AdImages/bannerAd3.gif</ImageUrl>
+    <NavigateUrl>https://www.google.com</NavigateUrl>
+    <AlternateText>Google website</AlternateText>
+    <Keyword>Google</Keyword>
+  </Ad>
+</Advertisements>
